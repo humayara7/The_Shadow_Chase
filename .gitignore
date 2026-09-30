@@ -1,0 +1,10 @@
+Debug/ 
+ipch/
+*.sdf
+*.suo
+*.obj
+*.idb
+*.pdb
+*.tlog
+*.log
+*.lastbuildstate

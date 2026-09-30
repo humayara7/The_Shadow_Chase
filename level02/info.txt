@@ -1,0 +1,13 @@
+PLAYER GAME INFORMATION
+=======================
+
+Level 01: Completed
+Level 01 Score: 1200
+
+Level 02: Completed
+Level 02 Score: 1850
+
+Level 03: Completed
+Level 03 Score: 2025
+
+Total Score: 5075
